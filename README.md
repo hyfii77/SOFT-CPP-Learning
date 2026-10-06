@@ -8,3 +8,6 @@
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 01 | loopbeginnercpp | Done |
+| Day 01 | loopintermediatecpp | Done |
+| Day 01 | loopchallengercpp | Done |
+
